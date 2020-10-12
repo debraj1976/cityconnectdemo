@@ -1,0 +1,6 @@
+Boston,Newark
+Boston,Philadelphia
+Trenton,Albany
+Boston,New York
+Philadelphia,Newark
+Philadelphia,New York
